@@ -5,4 +5,4 @@ resources:
 - ingress.yaml
 images:
 - name: ghcr.io/ocanema/podinfo
-  newTag: v0.0.2
+  newTag: v0.0.3
