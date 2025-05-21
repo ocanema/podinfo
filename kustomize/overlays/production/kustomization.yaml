@@ -8,3 +8,7 @@ resources:
 patchesStrategicMerge:
 - deployment.yaml
 - hpa.yaml
+
+images:
+- name: ghcr.io/ocanema/podinfo
+  newTag: v0.0.0
